@@ -1,0 +1,4 @@
+Test,Original Time,Optimized Time,Improvement (%)
+Column Selection,21.483268,18.565774,13.58
+Python UDF to Spark Built-in,18.051091,18.839913,-4.37
+Caching Repeated Data,36.571617,21.045864,42.45
